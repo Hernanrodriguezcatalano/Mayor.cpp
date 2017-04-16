@@ -1,4 +1,4 @@
-#Mayor.cpp
+# Mayor.cpp
 Hernan Rodriguez Catalano 1505397 K1051
 
 Dado dos números informar cuál es el mayor.
