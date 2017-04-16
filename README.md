@@ -1,40 +1,10 @@
-========================================================================
-    CONSOLE APPLICATION : Mayor Project Overview
-========================================================================
+#Mayor.cpp
+Hernan Rodriguez Catalano 1505397 K1051
 
-AppWizard has created this Mayor application for you.
+Dado dos números informar cuál es el mayor.
 
-This file contains a summary of what you will find in each of the files that
-make up your Mayor application.
-
-
-Mayor.vcxproj
-    This is the main project file for VC++ projects generated using an Application Wizard.
-    It contains information about the version of Visual C++ that generated the file, and
-    information about the platforms, configurations, and project features selected with the
-    Application Wizard.
-
-Mayor.vcxproj.filters
-    This is the filters file for VC++ projects generated using an Application Wizard. 
-    It contains information about the association between the files in your project 
-    and the filters. This association is used in the IDE to show grouping of files with
-    similar extensions under a specific node (for e.g. ".cpp" files are associated with the
-    "Source Files" filter).
-
-Mayor.cpp
-    This is the main application source file.
-
-/////////////////////////////////////////////////////////////////////////////
-Other standard files:
-
-StdAfx.h, StdAfx.cpp
-    These files are used to build a precompiled header (PCH) file
-    named Mayor.pch and a precompiled types file named StdAfx.obj.
-
-/////////////////////////////////////////////////////////////////////////////
-Other notes:
-
-AppWizard uses "TODO:" comments to indicate parts of the source code you
-should add to or customize.
-
-/////////////////////////////////////////////////////////////////////////////
+Se debe:
+1) Establecer las variables : a, b, mayor ϵ R
+2) Ingresar los valores para las variables : Ingreso a, b
+3) Comparar los valores : if (a>b){mayor = a} else{mayor= b}
+4) Mostar el valor de mayor : Mostrar mayor 
